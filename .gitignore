@@ -8,3 +8,4 @@ build/
 obj_dir/
 __pycache__/
 .DS_Store
+register_file_sim
