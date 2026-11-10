@@ -1,0 +1,10 @@
+*.vcd
+*.fst
+*.log
+*.out
+*.o
+*.tmp
+build/
+obj_dir/
+__pycache__/
+.DS_Store
